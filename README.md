@@ -4,7 +4,7 @@ Welcome to Hydrogen Simulator
 
 Right now you can build it by using the CMakeLists.txt thingy. I run 
 ```
-cmake -S . -B build <br>
+cmake -S . -B build
 cmake --build build
 ```
 Right now the prject is literally just a CMakeLists file and a sample program from SDL but have fun!
